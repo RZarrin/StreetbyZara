@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'RobReg';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: 'RalBol';
+    src: url(../fonts/Raleway-Bold.ttf);
+}
+@font-face {
+    font-family: 'RalReg';
+    src: url(../fonts/Raleway-Regular.ttf);
+}
+@font-face {
+	font-family: 'RalBla';
+	src: url(../fonts/Raleway-Black.ttf);
+}
+@font-face{
+    font-family: 'RalThi';
+    src: url(../fonts/Raleway-Thin.ttf);
+}
+@font-face {
+    font-family: 'RobBol';
+    src: url(../fonts/Roboto-Bold.ttf);
+}
